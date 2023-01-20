@@ -1,1 +1,5 @@
-const b = 'hi there';
+
+const a = 100;
+const b = ()=>{};
+
+
